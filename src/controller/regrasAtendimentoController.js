@@ -32,8 +32,6 @@ class regrasAtendimentoController {
 
         let resposta =  this.service.excluir(parseInt(id), type);
 
-        console.log(resposta)
-
         return res.status(resposta.statusCode).send(resposta);
     }
   
