@@ -17,7 +17,7 @@ Além disso a api é capaz de retornar ao usuário uma lista dos horários dispo
  
  Para começar a utilizar a api basta clonar o repositório git:
 
- > git clone https://github.com/eduardosilva97/API_Time_Management.git
+ > git clone https://github.com/eduardosilva97/API_REGRAS_DE_ATENDIMENTO
  
  Em seguida execute o seguinte comando na pasta do projeto para instalar as dependencias:
  
