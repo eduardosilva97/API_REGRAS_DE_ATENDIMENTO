@@ -1,7 +1,8 @@
 {
-  "name": "API - Regras de Atendimento",
+  "name": "API_Regras_de_Atendimento",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api de Criação de regras de atendimento",
+  "repository": "https://github.com/eduardosilva97/API_REGRAS_DE_ATENDIMENTO",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
